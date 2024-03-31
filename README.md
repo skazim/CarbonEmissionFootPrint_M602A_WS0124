@@ -1,4 +1,6 @@
 # CarbonEmissionFootPrint_M602A_WS0124
+
+## Abstract:
 The carbon footprint as an essential indicator in environmental evaluation, which
 measures the overall amount of greenhouse gas emissions linked to human activity
 including deforestation, industry, and burning fossil fuels. It includes emissions from
